@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <h1 align="center">Hi 👋, I'm Sehee</h1>
 <h3 align="center">Student from Yeung-nam Uni & junior programmer</h3>
